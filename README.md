@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Ekaterinburg
 * ✉️  You can contact me at [nikitaftp99@gmail.com](mailto:nikitaftp99@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning SvelteKit
 
 ### Skills
 
